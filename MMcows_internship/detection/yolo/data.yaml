@@ -1,0 +1,10 @@
+# Chemins des images pour chaque split
+train: C:/Users/rouat/Desktop/final/yolo/train/images
+val:   C:/Users/rouat/Desktop/final/yolo/val/images
+test:  C:/Users/rouat/Desktop/final/yolo/test/images
+
+# Nombre de classes
+nc: 1
+
+# Noms des classes
+names: ['cow']
